@@ -4,8 +4,8 @@ I'm HTML / Java developer.
 
 # My Accounts 
 
-- **Discord** [Discord](https://discord.com/users/852862474444865577)(bahady#2222)
-- **Server** [Link](https://discord.gg/dcXBNgJzzu)(bahadmr cod center)
+- **Discord** [Discord](https://discord.com/users/852862474444865577) (bahady#2222)
+- **Server** [Link](https://discord.gg/dcXBNgJzzu) (bahadmr code center)
 
 
 # My Github Stats 
