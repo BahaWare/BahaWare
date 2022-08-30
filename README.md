@@ -1,6 +1,6 @@
-# Hi there, I'm Weka! <img src="https://komarev.com/ghpvc/?username=bahadyxd" alt="" align="center" />
+# Hi there, I'm Baha! <img src="https://komarev.com/ghpvc/?username=bahadyxd" alt="" align="center" />
 
-I'm JavaScript developer.
+I'm HTML / Java developer.
 
 # My Accounts 
 
