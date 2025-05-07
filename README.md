@@ -3,8 +3,8 @@
 <h3 align="center">Hey there, I'm Baha! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
-  <a href="https://github.com/bahadyxd"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/bahadyxd?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/bahadyxd"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=bahadyxd&label=Profile%20views&color=00ffaa&style=for-the-badge"/></a>
+  <a href="https://github.com/BahaWare"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/BahaWare?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/BahaWare"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=BahaWare&label=Profile%20views&color=00ffaa&style=for-the-badge"/></a>
 </p>
 
 ## 📖 About me
@@ -17,12 +17,12 @@
 
 ## Stats  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-![Baha Stats](https://github-readme-stats.vercel.app/api?username=bahadyxd&theme=vue-dark&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bahadyxd&layout=compact&theme=vue-dark)
+![Baha Stats](https://github-readme-stats.vercel.app/api?username=BahaWare&theme=vue-dark&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BahaWare&layout=compact&theme=vue-dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bahadyxd&" alt="bahadyxd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BahaWare&" alt="BahaWare" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bahadyxd" alt="bahadyxd" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BahaWare" alt="BahaWare" /></a> </p>
 
 
 ## 🙋‍♂️ Connect with me:
